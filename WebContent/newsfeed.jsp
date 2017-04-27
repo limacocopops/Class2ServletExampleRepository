@@ -8,9 +8,5 @@
 </head>
 <body>
 <jsp:include page="navbar.jsp"></jsp:include></jsp:include>
-
-<h1> home.jsp</h1>
-<h1>${message}</h1>
-<a href="edit.jsp</body>a>
 </body>
 </html>
